@@ -1,1 +1,2 @@
 # SMS-1-1km
+Paper's main code for "Retrieval of 1 km surface soil moisture from Sentinel-1 over bare soil and grassland on the Qinghai-Tibetan Plateau". Sentinel-1 Surface Soil Moisture (SMS-1) is a surface soil moisture product (0-5 cm) at 1 km spatial  with a temporal resolution of 12 days over the Qinghai-Tibetan Plateau (QTP) from 2017 to 2021. This data is generated using a semi-empirical method specific to the QTP region based on the Sentinel-1 SAR data.
